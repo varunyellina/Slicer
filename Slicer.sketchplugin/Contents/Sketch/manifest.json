@@ -5,14 +5,14 @@
       "script" : "commands.js",
       "handler" : "exportToFolder",
       "name" : "Export to Folder",
-      "shortcut" : "cmd e",
+      "shortcut" : "ctrl e",
       "identifier" : "exportToFolder"
     },
     {
       "script" : "commands.js",
       "handler" : "exportToFolderAs",
       "name" : "Export to Folder As...",
-      "shortcut" : "cmd alt e",
+      "shortcut" : "ctrl alt e",
       "identifier" : "exportToFolderAs"
     }
   ],
